@@ -2,7 +2,7 @@
 
 **Faça um Controle de Irrigação Inteligente com Arduino** 
 
-:video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/BDwgDO3MgDs)
+:video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/nr7a3Ao6SCE)
 
 
 - Aprenda a programar ARDUINO com nosso [Curso de Arduino para Principiantes](https://cursodearduino.net/principiantes/) e o [Curso de Arduino 2.0](https://cursodearduino.net/). Com eles, você irá desenvolver sua própria lógica da programação e terá uma maior independencia, sem precisar copiar sketchs na internet.
